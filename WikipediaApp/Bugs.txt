@@ -1,0 +1,37 @@
+Bug Report 1: Search Functionality Not Working
+•	Steps to Reproduce:
+    1.	Open the app.
+    2.	Tap on the search icon.
+    3.	Enter any search term (e.g., "Selenium").
+    4.	Observe the search results.
+    5.  Select Any Search Result
+•	Expected Result: On Clicking Search Result Item, it should redirect me to that page.
+•	Actual Result: The error Page is retrieved.
+•	Severity: High
+•	Environment: Android 11, Oppo A74 5G
+
+
+
+Bug Report 2: Open Page Saved in My Lists
+    •	Steps to Reproduce:
+        1.	Open the app.
+        2.	Navigate to My Lists
+        3.	Open the saved Page
+      
+    •	Expected Result: On Clicking the page, it should redirect me to that page.
+    •	Actual Result: The error Page is retrieved.
+    •	Severity: High
+    •	Environment: Android 11, Oppo A74 5G
+   
+
+Bug Report 3: Find My location via NearBy Icon
+    •	Steps to Reproduce:
+        1.	Open the app.
+        2.	Navigate to Nearby Icon
+        3.	Click My location icon 
+        
+    •	Expected Result: It should show my location
+    •	Actual Result: The error mesage containing string 'invalid value ****' is found
+    •	Severity: High
+    •	Environment: Android 11, Oppo A74 5G
+   
